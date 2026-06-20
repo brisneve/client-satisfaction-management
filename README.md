@@ -1,4 +1,4 @@
-# UP Cebu Client Satisfaction Measurement (CSM) Dashboard
+# Client Satisfaction Measurement (CSM) Dashboard
 
 ## Overview
 
