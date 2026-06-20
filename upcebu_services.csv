@@ -1,0 +1,501 @@
+seq_office,office,seq_services,office_name,type,services
+1,oc,1,Office of the Chancellor,"External (For Students, UP Cebu Alumni, General Public)",Approval of Request
+1,oc,2,Office of the Chancellor,Internal (For UP Cebu Faculty and Staff),Approval of Request
+2,budget,1,Budget Office,Internal (For UP Cebu Faculty and Staff),Budget clearance for funding requests
+2,budget,2,Budget Office,Internal (For UP Cebu Faculty and Staff),Budget clearance for Basic Paper (BP)
+2,budget,3,Budget Office,Internal (For UP Cebu Faculty and Staff),Budget clearance for JO or COS Request
+2,budget,4,Budget Office,Internal (For UP Cebu Faculty and Staff),Budget clearance for Purchase Request (PR)
+2,budget,5,Budget Office,Internal (For UP Cebu Faculty and Staff),Obligation Request (ObR) and Budget Utilization Request (BUR)
+2,budget,6,Budget Office,Internal (For UP Cebu Faculty and Staff),Generation of Reports
+3,legal,1,Legal Office,Internal (For UP Cebu Faculty and Staff),"Service of pleadings and other required legal documents to judicial, quasi-judicial and administrative agencies within the reglementary period/s set under the applicable rules"
+3,legal,2,Legal Office,Internal (For UP Cebu Faculty and Staff),Issuance of pro-forma affidavits and legal documents
+3,legal,3,Legal Office,Internal (For UP Cebu Faculty and Staff),Legal Consultation
+3,legal,4,Legal Office,Internal (For UP Cebu Faculty and Staff),Render Legal Opinion
+3,legal,5,Legal Office,Internal (For UP Cebu Faculty and Staff),Contract Review
+3,legal,6,Legal Office,Internal (For UP Cebu Faculty and Staff),"Draft pleadings, contracts, policy, reports, pleadings, and other legal documents"
+3,legal,7,Legal Office,Internal (For UP Cebu Faculty and Staff),"Represent UP Cebu in judicial, quasi-judicial and administrative bodies/government agencies"
+3,legal,8,Legal Office,Internal (For UP Cebu Faculty and Staff),Fact-finding / conduct of investigations / grievance handling
+4,oash,1,Office of Anti-Sexual Harassment,"External (For Students, UP Cebu Alumni, General Public)","Orientation/Talk/Workshop on Anti-Sexual Harassment (ASH), Safe Spaces and related topic(s)"
+4,oash,2,Office of Anti-Sexual Harassment,"External (For Students, UP Cebu Alumni, General Public)",Referral service
+4,oash,3,Office of Anti-Sexual Harassment,Internal (For UP Cebu Faculty and Staff),First Responders’ Drill on Anti-Sexual Harassment (#ASH1st)
+4,oash,4,Office of Anti-Sexual Harassment,Internal (For UP Cebu Faculty and Staff),Treatment and resolution of of report(s)/complaint(s) on sexual harassment/ violation of safe spaces
+4,oash,5,Office of Anti-Sexual Harassment,Internal (For UP Cebu Faculty and Staff),Internship safety briefing
+4,oash,6,Office of Anti-Sexual Harassment,Internal (For UP Cebu Faculty and Staff),Issuance of clearance or related certification
+5,pio,1,Public Information Office,"External (For Students, UP Cebu Alumni, General Public)",Create content for UP Cebu website and social media platforms
+5,pio,2,Public Information Office,"External (For Students, UP Cebu Alumni, General Public)",Answering queries regarding the University and services offered by the University
+5,pio,3,Public Information Office,"External (For Students, UP Cebu Alumni, General Public)",Approval/ Disapproval of posters posted on UP Cebu grounds and UP Cebu Official Social Media Sites
+5,pio,4,Public Information Office,"External (For Students, UP Cebu Alumni, General Public)",Provide documentation for different events
+5,pio,5,Public Information Office,"External (For Students, UP Cebu Alumni, General Public)",Organization of events
+5,pio,6,Public Information Office,"External (For Students, UP Cebu Alumni, General Public)",Layout designs or graphics
+5,pio,7,Public Information Office,Internal (For UP Cebu Faculty and Staff),Provides UP System with updates/media/reports about UP Cebu
+6,ttbdo,1,Technology Transfer and Business Development Office,"External (For Students, UP Cebu Alumni, General Public)",Assessment of invention of product
+6,ttbdo,2,Technology Transfer and Business Development Office,"External (For Students, UP Cebu Alumni, General Public)",Basic patentability search for product or invention
+6,ttbdo,3,Technology Transfer and Business Development Office,"External (For Students, UP Cebu Alumni, General Public)",Advanced patentability search for product or invention
+6,ttbdo,4,Technology Transfer and Business Development Office,"External (For Students, UP Cebu Alumni, General Public)",Claims Drafting
+6,ttbdo,5,Technology Transfer and Business Development Office,"External (For Students, UP Cebu Alumni, General Public)",Filing for IP Protection
+6,ttbdo,6,Technology Transfer and Business Development Office,"External (For Students, UP Cebu Alumni, General Public)",Application to be part of Incubation Program
+6,ttbdo,7,Technology Transfer and Business Development Office,"External (For Students, UP Cebu Alumni, General Public)",Memorandum of Agreement
+6,ttbdo,8,Technology Transfer and Business Development Office,Internal (For UP Cebu Faculty and Staff),Assessment of invention of product
+6,ttbdo,9,Technology Transfer and Business Development Office,Internal (For UP Cebu Faculty and Staff),Patentability search for product or invention
+6,ttbdo,10,Technology Transfer and Business Development Office,Internal (For UP Cebu Faculty and Staff),Claims Drafting
+6,ttbdo,11,Technology Transfer and Business Development Office,Internal (For UP Cebu Faculty and Staff),Filing for IP Protection
+7,pahinungod,1,Ugnayan Ng Pahinungod,"External (For Students, UP Cebu Alumni, General Public)",Disaster Risk Reduction Management (DRRM) Buhay Pahinungόd Program
+7,pahinungod,2,Ugnayan Ng Pahinungod,"External (For Students, UP Cebu Alumni, General Public)",Teachers Professional Development Training Program
+7,pahinungod,3,Ugnayan Ng Pahinungod,"External (For Students, UP Cebu Alumni, General Public)",Tutorial Service Program
+7,pahinungod,4,Ugnayan Ng Pahinungod,"External (For Students, UP Cebu Alumni, General Public)",Processing of Tutorial Service Program Volunteer Application
+7,pahinungod,5,Ugnayan Ng Pahinungod,Internal (For UP Cebu Faculty and Staff),Processing of Teachers Professional Development Training Program Application
+8,oil,1,Office of International Linkages,Internal (For UP Cebu Faculty and Staff),Facilitation of requests for MOAs and MOUs
+8,oil,2,Office of International Linkages,Internal (For UP Cebu Faculty and Staff),Facilitation of applications for mobility for international exchange student programs
+8,oil,3,Office of International Linkages,Internal (For UP Cebu Faculty and Staff),Facilitation of applications for travel grant for graduate students
+9,ovcaa,1,Office to the Vice Chancellor for Academic Affairs,"External (For Students, UP Cebu Alumni, General Public)","Approval of students’ requests for readmission due to LOA, PDQ, Delinquent Status, and extension of Waiver of MRR (during the University Admissions Committee meeting"
+9,ovcaa,2,Office to the Vice Chancellor for Academic Affairs,"External (For Students, UP Cebu Alumni, General Public)","Endorsement of students’ requests for extension of enrollment, and applications for student loan (via the Document Routing System)."
+9,ovcaa,3,Office to the Vice Chancellor for Academic Affairs,"External (For Students, UP Cebu Alumni, General Public)","Endorsement of students’ requests for Alternative Class Learning Experience (ACLE),
+and other activities (via the Document Routing System)."
+9,ovcaa,4,Office to the Vice Chancellor for Academic Affairs,"External (For Students, UP Cebu Alumni, General Public)","Endorsement of requests to hold student organizations’ activities and off-campus
+activities (via the Document Routing System)."
+9,ovcaa,5,Office to the Vice Chancellor for Academic Affairs,"External (For Students, UP Cebu Alumni, General Public)",Processing of payment to Suppliers through BULSA.
+9,ovcaa,6,Office to the Vice Chancellor for Academic Affairs,"External (For Students, UP Cebu Alumni, General Public)",Dialogue or consultation (individual/group) with the VCAA
+9,ovcaa,7,Office to the Vice Chancellor for Academic Affairs,Internal (For UP Cebu Faculty and Staff),Endorsement of requests of the colleges related to faculty hiring/renewal and tenure (during the APFC meetings).
+9,ovcaa,8,Office to the Vice Chancellor for Academic Affairs,Internal (For UP Cebu Faculty and Staff),"Endorsement of requests for fellowships, applications for leaves and travels of the Faculty and REPS (during the APFC meetings/via the Document Routing System)."
+9,ovcaa,9,Office to the Vice Chancellor for Academic Affairs,Internal (For UP Cebu Faculty and Staff),Endorsement of various requests from HRDO and offices under the OVCAA through PUSO/Adobe sign/Airslate/BULSA.
+9,ovcaa,10,Office to the Vice Chancellor for Academic Affairs,Internal (For UP Cebu Faculty and Staff),Endorsement of Research Contracts (printed copies).
+9,ovcaa,11,Office to the Vice Chancellor for Academic Affairs,Internal (For UP Cebu Faculty and Staff),"Endorsement of faculty’s application for the UP System Research Dissemination Grant, International Publication Award, etc. (via email/Document Routing System)."
+9,ovcaa,12,Office to the Vice Chancellor for Academic Affairs,Internal (For UP Cebu Faculty and Staff),Endorsement of the UP Forms 67B & 67C for processing of faculty overload honoraria every end of the semester/trimester and Midyear Term (printed copies).
+9,ovcaa,13,Office to the Vice Chancellor for Academic Affairs,Internal (For UP Cebu Faculty and Staff),Endorsement of requests for collaborations and partnerships with UP Cebu (printed copies).
+9,ovcaa,14,Office to the Vice Chancellor for Academic Affairs,Internal (For UP Cebu Faculty and Staff),Endorsement of API Proposals and requests for realignment of the approved Line-Item Budget for API activities (printed and e-copies).
+9,ovcaa,15,Office to the Vice Chancellor for Academic Affairs,Internal (For UP Cebu Faculty and Staff),"Processing of travel reimbursements for the Chancellor and VCAA, Professional Service Fees for the Resource
+Persons through BULSA."
+9,ovcaa,16,Office to the Vice Chancellor for Academic Affairs,Internal (For UP Cebu Faculty and Staff),Submission of data/reports (through email/Document Routing System).
+9,ovcaa,17,Office to the Vice Chancellor for Academic Affairs,Internal (For UP Cebu Faculty and Staff),Generation of Student Evaluation of Teaching (SET) reports through AMIS.
+9,ovcaa,18,Office to the Vice Chancellor for Academic Affairs,Internal (For UP Cebu Faculty and Staff),Signing of Checks
+10,cvsc,1,Central Visayas Studies Center,"External (For Students, UP Cebu Alumni, General Public)",Overseas inter-government communications related to training and workshops and other research-related data requests
+10,cvsc,2,Central Visayas Studies Center,Internal (For UP Cebu Faculty and Staff),Facilitate multi-disciplinary research on issues that concern the Central Visayas
+10,cvsc,3,Central Visayas Studies Center,Internal (For UP Cebu Faculty and Staff),Facilitate UP System Enhanced Creative Works and Research Grant
+10,cvsc,4,Central Visayas Studies Center,Internal (For UP Cebu Faculty and Staff),Facilitate and endorse UP System Research Dissemination Grant
+10,cvsc,5,Central Visayas Studies Center,Internal (For UP Cebu Faculty and Staff),Facilitate and endorse the UP System International Publication Award
+10,cvsc,6,Central Visayas Studies Center,Internal (For UP Cebu Faculty and Staff),Facilitate UP Cebu Creative Work and Research Grant (UPC CWRG) application
+10,cvsc,7,Central Visayas Studies Center,"External (For Students, UP Cebu Alumni, General Public)","Disseminate information and communication pertaining to research sent by government agencies, NGOs, or private organizations"
+10,cvsc,8,Central Visayas Studies Center,Internal (For UP Cebu Faculty and Staff),Facilitate and endorse UP Cebu Research Dissemination Grant
+10,cvsc,9,Central Visayas Studies Center,Internal (For UP Cebu Faculty and Staff),Provide answers to inquiries on research and research-related matters
+10,cvsc,10,Central Visayas Studies Center,Internal (For UP Cebu Faculty and Staff),"Assess, verify, and post reported publications / creative work output"
+10,cvsc,11,Central Visayas Studies Center,Internal (For UP Cebu Faculty and Staff),Post reported research and creative work presentation
+10,cvsc,12,Central Visayas Studies Center,Internal (For UP Cebu Faculty and Staff),Propose and conduct seminar-workshops (including API Seminar-Workshops) and forums on research and publication matters and different issues in Central Visayas and the nation
+11,gad,1,Gender and Development,"External (For Students, UP Cebu Alumni, General Public)",Provide expertise for Gender Training and Other Gender-Related Activities
+11,gad,2,Gender and Development,"External (For Students, UP Cebu Alumni, General Public)",Extend Technical Support to SIDLAK Gender Resource Center Region 7 and its Partners
+11,gad,3,Gender and Development,"External (For Students, UP Cebu Alumni, General Public)",Use of UP Cebu Infrastructure and/or Facilities for GAD Mainstreaming Activities
+11,gad,4,Gender and Development,Internal (For UP Cebu Faculty and Staff),Submission of annual GAD Plan and Budget/ Accomplishment reports to VCAA/ OC/ COA/ UP CWGS
+11,gad,5,Gender and Development,Internal (For UP Cebu Faculty and Staff),Facilitate Gender Training and Other Gender-Related Activities for UP Cebu Constituents
+11,gad,6,Gender and Development,Internal (For UP Cebu Faculty and Staff),"Facilitate any logistical support to UP Cebu Faculty, REPS, & Administrative Staff for GAD-related activities"
+11,gad,7,Gender and Development,Internal (For UP Cebu Faculty and Staff),Use of UP Cebu Infrastructure and/or Facilities for GAD Mainstreaming Activities
+12,nstp,1,National Service Training Program,"External (For Students, UP Cebu Alumni, General Public)","Honorarium of Resource Speaker/s for Plenary Sessions, Training, Other Services"
+12,nstp,2,National Service Training Program,"External (For Students, UP Cebu Alumni, General Public)",Requesting of data from barangays
+12,nstp,3,National Service Training Program,Internal (For UP Cebu Faculty and Staff),"Basic requests regarding lecturers, equipment, venue"
+12,nstp,4,National Service Training Program,Internal (For UP Cebu Faculty and Staff),Processing of salary and honorarium
+12,nstp,5,National Service Training Program,Internal (For UP Cebu Faculty and Staff),Processing of change in matriculation
+13,osa,1,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Counselling and psychotherapy
+13,osa,2,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Psychological Testing
+13,osa,3,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Career Guidance Service
+13,osa,4,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Student Inventory Service for Undergraduate & Graduate Students
+13,osa,5,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Information Services
+13,osa,6,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Job Fair for Partner Companies
+13,osa,7,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Request for Certifications
+13,osa,8,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Request for Clearance (Transferees and Graduates)
+13,osa,9,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Request for Clearance (Readmission and Leave of Absence)
+13,osa,10,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Student Learning Assistance System (SLAS) Online Application
+13,osa,11,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Student Learning Assistance System (SLAS) Online Application Appeals
+13,osa,12,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Request for Transfer of Campus (SLAS Online Application)
+13,osa,13,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Release of Stipend for FDS Grantees
+13,osa,14,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Scholarship Application for Students
+13,osa,15,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Renewal of Scholarship for Students
+13,osa,16,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Release of Allowances for Scholars
+13,osa,17,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Application for Kadaganan Fund
+13,osa,18,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Donation to the Kadaganan Fund
+13,osa,19,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Student Assistant (SA) Application for Requesting Offices
+13,osa,20,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Student Assistant (SA) Application for Students
+13,osa,21,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Release of Student Assistant (SA) Salary
+13,osa,22,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Application for Recognition & Renewal of Student Organizations (SO)
+13,osa,23,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Request to Hold Student Organization (SO) Activities inside UP Campus
+13,osa,24,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Request to Hold Student Organization (SO) Activities outside UP Campus
+13,osa,25,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)","Request for Posting of Tarps, Posters, or Statements inside the Campus"
+13,osa,26,Office of Student Affairs,"External (For Students, UP Cebu Alumni, General Public)",Dormitory Application
+13,osa,27,Office of Student Affairs,Internal (For UP Cebu Faculty and Staff),Wellness program
+13,osa,28,Office of Student Affairs,Internal (For UP Cebu Faculty and Staff),Counselling and psychotherapy
+14,our,1,Office of the University Registrar,"External (For Students, UP Cebu Alumni, General Public)","Admission - new first year, undergraduate"
+14,our,2,Office of the University Registrar,"External (For Students, UP Cebu Alumni, General Public)","Admission - new first year, graduate"
+14,our,3,Office of the University Registrar,"External (For Students, UP Cebu Alumni, General Public)",Admission - transferee / VAAS / AASS (with college units)
+14,our,4,Office of the University Registrar,"External (For Students, UP Cebu Alumni, General Public)","Cross-registration and special students, incoming"
+14,our,5,Office of the University Registrar,"External (For Students, UP Cebu Alumni, General Public)","Cross-registration and special students, out-going"
+14,our,6,Office of the University Registrar,"External (For Students, UP Cebu Alumni, General Public)","Issuance of UP ID, student"
+14,our,7,Office of the University Registrar,"External (For Students, UP Cebu Alumni, General Public)",Paperless University clearance for students
+14,our,8,Office of the University Registrar,"External (For Students, UP Cebu Alumni, General Public)",Request for official transcript of records (OTR)
+14,our,9,Office of the University Registrar,"External (For Students, UP Cebu Alumni, General Public)",Request for certifications
+14,our,10,Office of the University Registrar,"External (For Students, UP Cebu Alumni, General Public)",Issuance of Diploma
+14,our,11,Office of the University Registrar,"External (For Students, UP Cebu Alumni, General Public)",Verification of student records (domestic and international)
+14,our,12,Office of the University Registrar,"External (For Students, UP Cebu Alumni, General Public)",Authentication of student records
+14,our,13,Office of the University Registrar,"External (For Students, UP Cebu Alumni, General Public)",Certificate of Authentication and Verification (CAV)
+14,our,14,Office of the University Registrar,"External (For Students, UP Cebu Alumni, General Public)",CHED Billing Report
+15,tlrc,1,Teaching and Learning Resource Center,"External (For Students, UP Cebu Alumni, General Public)",Equipment and Materials Borrowing Service
+15,tlrc,2,Teaching and Learning Resource Center,"External (For Students, UP Cebu Alumni, General Public)",Peer Tutorials
+15,tlrc,3,Teaching and Learning Resource Center,"External (For Students, UP Cebu Alumni, General Public)","Self-Service Printing, Photocopying, and Scanning"
+15,tlrc,4,Teaching and Learning Resource Center,"External (For Students, UP Cebu Alumni, General Public)",University Virtual Education Commons (UVEC) Assistance
+15,tlrc,5,Teaching and Learning Resource Center,"External (For Students, UP Cebu Alumni, General Public)",Use of Desktop Computers
+15,tlrc,6,Teaching and Learning Resource Center,"External (For Students, UP Cebu Alumni, General Public)",Use of the Interactive Learning Center (ILC)
+15,tlrc,7,Teaching and Learning Resource Center,"External (For Students, UP Cebu Alumni, General Public)",Use of the TLRC Discussion Area
+15,tlrc,8,Teaching and Learning Resource Center,Internal (For UP Cebu Faculty and Staff),Assistance with multimedia presentations
+15,tlrc,9,Teaching and Learning Resource Center,Internal (For UP Cebu Faculty and Staff),Educator Support Services
+15,tlrc,10,Teaching and Learning Resource Center,Internal (For UP Cebu Faculty and Staff),Equipment and Materials Borrowing Service
+15,tlrc,11,Teaching and Learning Resource Center,Internal (For UP Cebu Faculty and Staff),Event Support Services
+15,tlrc,12,Teaching and Learning Resource Center,Internal (For UP Cebu Faculty and Staff),"Printing, Photocopying, and Scanning"
+15,tlrc,13,Teaching and Learning Resource Center,Internal (For UP Cebu Faculty and Staff),Use of desktop computers
+15,tlrc,14,Teaching and Learning Resource Center,Internal (For UP Cebu Faculty and Staff),Use of the Interactive Learning Center (ILC)
+15,tlrc,15,Teaching and Learning Resource Center,Internal (For UP Cebu Faculty and Staff),Use of the TLRC Discussion Area
+16,library,1,University Library,"External (For Students, UP Cebu Alumni, General Public)",Registration for library access (non-UP researchers)
+16,library,2,University Library,"External (For Students, UP Cebu Alumni, General Public)",Checking-out (borrowing) of library books
+16,library,3,University Library,"External (For Students, UP Cebu Alumni, General Public)",Checking-in (returning) of library books
+16,library,4,University Library,"External (For Students, UP Cebu Alumni, General Public)",Renewing of books borrowed or checked-out
+16,library,5,University Library,"External (For Students, UP Cebu Alumni, General Public)","Requests for Filipiniana, reserve books, and Theses"
+16,library,6,University Library,"External (For Students, UP Cebu Alumni, General Public)",Request for use of Computers to access the internet
+16,library,7,University Library,"External (For Students, UP Cebu Alumni, General Public)",Request for use of computers to access UP System Subscribed Library Databases
+16,library,8,University Library,"External (For Students, UP Cebu Alumni, General Public)",Document delivery service
+16,library,9,University Library,"External (For Students, UP Cebu Alumni, General Public)",Request for Information Access and Reference Service
+16,library,10,University Library,"External (For Students, UP Cebu Alumni, General Public)",Borrowing of periodicals for in-house use
+16,library,11,University Library,"External (For Students, UP Cebu Alumni, General Public)",Payment of Fines
+16,library,12,University Library,"External (For Students, UP Cebu Alumni, General Public)","Request for Turnitin Account, Similarity Index report, and AI report"
+16,library,13,University Library,"External (For Students, UP Cebu Alumni, General Public)",Payment of Lost Books
+16,library,14,University Library,"External (For Students, UP Cebu Alumni, General Public)",Request for Reservation of Makerspaces
+16,library,15,University Library,Internal (For UP Cebu Faculty and Staff),Checking-out (Borrowing) of Library Books
+16,library,16,University Library,Internal (For UP Cebu Faculty and Staff),Checking-in (Returning) of Library Books
+16,library,17,University Library,Internal (For UP Cebu Faculty and Staff),Renewing of Book/s Borrowed or Checked-out
+16,library,18,University Library,Internal (For UP Cebu Faculty and Staff),"Requests for Filipiniana, reserve books, and Theses"
+16,library,19,University Library,Internal (For UP Cebu Faculty and Staff),Document Delivery Service
+16,library,20,University Library,Internal (For UP Cebu Faculty and Staff),Request for Information Access and Reference Service
+16,library,21,University Library,Internal (For UP Cebu Faculty and Staff),Borrowing of periodicals for in-house use
+16,library,22,University Library,Internal (For UP Cebu Faculty and Staff),Payment of Fines
+16,library,23,University Library,Internal (For UP Cebu Faculty and Staff),Request for Turnitin Account
+16,library,24,University Library,Internal (For UP Cebu Faculty and Staff),Payment of Lost Books
+16,library,25,University Library,Internal (For UP Cebu Faculty and Staff),Request for Library Orientation or Instruction
+16,library,26,University Library,Internal (For UP Cebu Faculty and Staff),Request for Reservation of Makerspaces
+17,ovca,1,Office to the Vice Chancellor for Administration,"External (For Students, UP Cebu Alumni, General Public)","Action on special requests of, or liaison, with contractors for various concerns"
+17,ovca,2,Office to the Vice Chancellor for Administration,"External (For Students, UP Cebu Alumni, General Public)",Application for car sticker
+17,ovca,3,Office to the Vice Chancellor for Administration,"External (For Students, UP Cebu Alumni, General Public)",Procurement of plane tickets
+17,ovca,4,Office to the Vice Chancellor for Administration,"External (For Students, UP Cebu Alumni, General Public)","Response and action to requests for consultations, liaisons, grievances, and complaints on various concerns regarding the use of facilities, systems, and processes"
+17,ovca,5,Office to the Vice Chancellor for Administration,"External (For Students, UP Cebu Alumni, General Public)",Review endorsement/approval of requests for use of facilities and equipment
+17,ovca,6,Office to the Vice Chancellor for Administration,Internal (For UP Cebu Faculty and Staff),Application for Car Sticker
+17,ovca,7,Office to the Vice Chancellor for Administration,Internal (For UP Cebu Faculty and Staff),Approval of Bids and Awards Committee (BAC) recommendation for mode of procurement
+17,ovca,8,Office to the Vice Chancellor for Administration,Internal (For UP Cebu Faculty and Staff),Approval of PPMP (Project Procurement and Management Plan)
+17,ovca,9,Office to the Vice Chancellor for Administration,Internal (For UP Cebu Faculty and Staff),"Endorsement and/or approvals of Purchase Requests (PRs), Obligation Requests (ObRs), Disbursement Vouchers (DVs) and Purchase Orders (POs) (below PhP1,000,000)"
+17,ovca,10,Office to the Vice Chancellor for Administration,Internal (For UP Cebu Faculty and Staff),"Endorsement of application of administrative personnel for fellowships (i.e. FRASDP – Faculty, REPS, Administrative
+Staff Development Program)"
+17,ovca,11,Office to the Vice Chancellor for Administration,Internal (For UP Cebu Faculty and Staff),Endorsement of Authority to Travel for Administrative Staff
+17,ovca,12,Office to the Vice Chancellor for Administration,Internal (For UP Cebu Faculty and Staff),Endorsement of materials to be used for infrastructure development and maintenance
+17,ovca,13,Office to the Vice Chancellor for Administration,Internal (For UP Cebu Faculty and Staff),"Endorsement of MOAs / Project Contracts for Infrastructure, with Cooperatives and other Service Providers"
+17,ovca,14,Office to the Vice Chancellor for Administration,Internal (For UP Cebu Faculty and Staff),Endorsements of candidates for employment (as Chair of Human Resource Management and Personnel Selection Board - HRMPSB)
+17,ovca,15,Office to the Vice Chancellor for Administration,Internal (For UP Cebu Faculty and Staff),Procurement of Plane Tickets
+17,ovca,16,Office to the Vice Chancellor for Administration,Internal (For UP Cebu Faculty and Staff),"Response and action to requests for consultations, liaisons, grievances, and complaints on various concerns regarding the use of facilities, systems, and processes"
+17,ovca,17,Office to the Vice Chancellor for Administration,Internal (For UP Cebu Faculty and Staff),"Review and approval of requests for use of facilities, equipment and vehicles"
+17,ovca,18,Office to the Vice Chancellor for Administration,Internal (For UP Cebu Faculty and Staff),Signing of Cheques
+18,accounting,1,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Issuance of second copy of BIR 2306 and 2307
+18,accounting,2,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Filing of annual reports to Bureau of Internal Revenue - Compensation Report 1604-C
+18,accounting,3,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Reports - Status of funds and financial report on special projects
+18,accounting,4,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)","Reports - Financial reports (monthly, quarterly, year end)"
+18,accounting,5,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Reports - Bank reconciliation
+18,accounting,6,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Billing of scholars
+18,accounting,7,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Student loan application
+18,accounting,8,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Requests for certification
+18,accounting,9,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Respond to inquiries and consultation
+18,accounting,10,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Refund of school fees - Tuition
+18,accounting,11,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Remittance of premiums and loans
+18,accounting,12,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Replacement of stale checks and cancelled checks
+18,accounting,13,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Refund of school fees - Withdrawal of subject
+18,accounting,14,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Refunds of students deposit
+18,accounting,15,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Processing of List of Due & Demandable Accounts Payable (LDDAP)
+18,accounting,16,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Issuance of BIR 2306 and BIR 2307 for lecturers and contractual employees
+18,accounting,17,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Remittances of withholding tax
+18,accounting,18,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Payment to NGW’s (non-government workers) and students
+18,accounting,19,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Payment to suppliers
+18,accounting,20,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Payment of utilities
+18,accounting,21,Accounting Office,"External (For Students, UP Cebu Alumni, General Public)",Payment to contractors
+18,accounting,22,Accounting Office,Internal (For UP Cebu Faculty and Staff),Assessment for rental of facilities
+18,accounting,23,Accounting Office,Internal (For UP Cebu Faculty and Staff),Issuance of certifications
+18,accounting,24,Accounting Office,Internal (For UP Cebu Faculty and Staff),Issuance of BIR 2316 (Certificate of Withholding Tax from Compensation)
+18,accounting,25,Accounting Office,Internal (For UP Cebu Faculty and Staff),Issuance of second copy of BIR Form 2316
+18,accounting,26,Accounting Office,Internal (For UP Cebu Faculty and Staff),Replacement of stale checks and cancelled checks
+18,accounting,27,Accounting Office,Internal (For UP Cebu Faculty and Staff),Cash advance
+18,accounting,28,Accounting Office,Internal (For UP Cebu Faculty and Staff),Reimbursement of travel expenses
+18,accounting,29,Accounting Office,Internal (For UP Cebu Faculty and Staff),"Reimbursement for the payment of hotel accommodation, meals, and other miscellaneous expenses"
+18,accounting,30,Accounting Office,Internal (For UP Cebu Faculty and Staff),Payment of salaries
+18,accounting,31,Accounting Office,Internal (For UP Cebu Faculty and Staff),Liquidation of cash advances
+18,accounting,32,Accounting Office,Internal (For UP Cebu Faculty and Staff),Respond to inquiries and consultation
+18,accounting,33,Accounting Office,Internal (For UP Cebu Faculty and Staff),Payment of honorarium and other benefits
+19,cmo,1,Campus Maintenance Office,"External (For Students, UP Cebu Alumni, General Public)",Reservation of facilities and grounds
+19,cmo,2,Campus Maintenance Office,"External (For Students, UP Cebu Alumni, General Public)",Technical support
+19,cmo,3,Campus Maintenance Office,"External (For Students, UP Cebu Alumni, General Public)",Concessionaire’s request for booking of facilities and utilities
+19,cmo,4,Campus Maintenance Office,"External (For Students, UP Cebu Alumni, General Public)",Computation for power and water supply
+19,cmo,5,Campus Maintenance Office,"External (For Students, UP Cebu Alumni, General Public)",Job order requests
+19,cmo,6,Campus Maintenance Office,Internal (For UP Cebu Faculty and Staff),"Reservation of facilities, equipment and vehicles"
+19,cmo,7,Campus Maintenance Office,Internal (For UP Cebu Faculty and Staff),Job order request
+19,cmo,8,Campus Maintenance Office,Internal (For UP Cebu Faculty and Staff),Technical support
+19,cmo,9,Campus Maintenance Office,Internal (For UP Cebu Faculty and Staff),Computation for power and water supply
+19,cmo,10,Campus Maintenance Office,Internal (For UP Cebu Faculty and Staff),Minor rehabilitation of facilities
+20,cash,1,Cash Office,"External (For Students, UP Cebu Alumni, General Public)",Collection of fees (walk-in)
+20,cash,2,Cash Office,"External (For Students, UP Cebu Alumni, General Public)",Collection of enrollment fees
+20,cash,3,Cash Office,"External (For Students, UP Cebu Alumni, General Public)",Collection of rental fees of UP Cebu facilities
+20,cash,4,Cash Office,"External (For Students, UP Cebu Alumni, General Public)",Collection of fees for car sticker
+20,cash,5,Cash Office,"External (For Students, UP Cebu Alumni, General Public)",Collection of fees and other receivables through the online portals
+20,cash,6,Cash Office,"External (For Students, UP Cebu Alumni, General Public)",Bond application of UPC officials and employees to the Bureau of the Treasury
+20,cash,7,Cash Office,"External (For Students, UP Cebu Alumni, General Public)",Disbursement of checks
+20,cash,8,Cash Office,"External (For Students, UP Cebu Alumni, General Public)",Disbursement of checks via bank deposit
+20,cash,9,Cash Office,"External (For Students, UP Cebu Alumni, General Public)","Collection of payment for stale, lost, and cancelled checks and request for re-issuance"
+20,cash,10,Cash Office,Internal (For UP Cebu Faculty and Staff),Disbursement through auto-debit to account (ADA)
+20,cash,11,Cash Office,Internal (For UP Cebu Faculty and Staff),Release of pay slips online
+20,cash,12,Cash Office,Internal (For UP Cebu Faculty and Staff),Sale of UPC bus ticket
+21,guesthouse,1,Guest House,"External (For Students, UP Cebu Alumni, General Public)",Reservation of facilities
+22,hsu,1,Health Services Unit,"External (For Students, UP Cebu Alumni, General Public)",Medical consultation
+22,hsu,2,Health Services Unit,"External (For Students, UP Cebu Alumni, General Public)",BP / V/S monitoring
+22,hsu,3,Health Services Unit,"External (For Students, UP Cebu Alumni, General Public)","Issuance of request for diagnostic test, specialist, or admission, referral"
+22,hsu,4,Health Services Unit,"External (For Students, UP Cebu Alumni, General Public)",Issuance of medical certificate / fitness clearance for scholarship or physical activity or training or enrollment (of old students)
+22,hsu,5,Health Services Unit,"External (For Students, UP Cebu Alumni, General Public)",Issuance of medical certificate for Leave of Absence (LOA - absence from class)
+22,hsu,6,Health Services Unit,"External (For Students, UP Cebu Alumni, General Public)",Signing of University clearance
+22,hsu,7,Health Services Unit,"External (For Students, UP Cebu Alumni, General Public)",Processing of pre-employment medical examination
+22,hsu,8,Health Services Unit,"External (For Students, UP Cebu Alumni, General Public)",Request for immunization / vaccination
+22,hsu,9,Health Services Unit,"External (For Students, UP Cebu Alumni, General Public)",Dental consultation
+22,hsu,10,Health Services Unit,"External (For Students, UP Cebu Alumni, General Public)",Oral prophylaxis
+22,hsu,11,Health Services Unit,"External (For Students, UP Cebu Alumni, General Public)",Dental extraction
+22,hsu,12,Health Services Unit,"External (For Students, UP Cebu Alumni, General Public)",Dental filling
+22,hsu,13,Health Services Unit,Internal (For UP Cebu Faculty and Staff),Processing of e-HOPE reimbursements
+22,hsu,14,Health Services Unit,Internal (For UP Cebu Faculty and Staff),Medical consultation
+22,hsu,15,Health Services Unit,Internal (For UP Cebu Faculty and Staff),BP / V/S monitoring
+22,hsu,16,Health Services Unit,Internal (For UP Cebu Faculty and Staff),"Issuance of request for diagnostic test, specialist, or admission referral"
+22,hsu,17,Health Services Unit,Internal (For UP Cebu Faculty and Staff),Issuance of medical certificate / fitness clearance for scholarship or physical activity or training or enrollment
+22,hsu,18,Health Services Unit,Internal (For UP Cebu Faculty and Staff),Issuance of medical certificate for Leave of Absence (LOA - absence from work)
+22,hsu,19,Health Services Unit,Internal (For UP Cebu Faculty and Staff),Signing of University clearance
+22,hsu,20,Health Services Unit,Internal (For UP Cebu Faculty and Staff),Processing of medical examination for employees
+22,hsu,21,Health Services Unit,Internal (For UP Cebu Faculty and Staff),Request for immunization
+22,hsu,22,Health Services Unit,Internal (For UP Cebu Faculty and Staff),Dental consultation
+22,hsu,23,Health Services Unit,Internal (For UP Cebu Faculty and Staff),Oral prophylaxis
+22,hsu,24,Health Services Unit,Internal (For UP Cebu Faculty and Staff),Dental extraction
+22,hsu,25,Health Services Unit,Internal (For UP Cebu Faculty and Staff),Dental filling
+23,hrdo,1,Human Resource Development Office,"External (For Students, UP Cebu Alumni, General Public)",Issuance of service record as requested by separated employees
+23,hrdo,2,Human Resource Development Office,"External (For Students, UP Cebu Alumni, General Public)",Issuance of certificate of employment as requested by separated employees
+23,hrdo,3,Human Resource Development Office,"External (For Students, UP Cebu Alumni, General Public)","Recruitment, selection, and placement (RSP)"
+23,hrdo,4,Human Resource Development Office,"External (For Students, UP Cebu Alumni, General Public)",Submission of pre-employment requirements to HRDO
+23,hrdo,5,Human Resource Development Office,"External (For Students, UP Cebu Alumni, General Public)",Submission of quarterly foreign travel report
+23,hrdo,6,Human Resource Development Office,"External (For Students, UP Cebu Alumni, General Public)",Request for University clearance by separated employees
+23,hrdo,7,Human Resource Development Office,"External (For Students, UP Cebu Alumni, General Public)",Processing of retirement benefits of retired employees
+23,hrdo,8,Human Resource Development Office,Internal (For UP Cebu Faculty and Staff),Issuance of Service Record as requested by UP Cebu employees
+23,hrdo,9,Human Resource Development Office,Internal (For UP Cebu Faculty and Staff),Issuance of Certificate of Employment
+23,hrdo,10,Human Resource Development Office,Internal (For UP Cebu Faculty and Staff),Certificate of leave balances of employees
+23,hrdo,11,Human Resource Development Office,Internal (For UP Cebu Faculty and Staff),Issuance of employees ID
+23,hrdo,12,Human Resource Development Office,Internal (For UP Cebu Faculty and Staff),Application for study leave / fellowships by a faculty / admin staff / REPS
+23,hrdo,13,Human Resource Development Office,Internal (For UP Cebu Faculty and Staff),Learning and development of staff / REPS
+23,hrdo,14,Human Resource Development Office,Internal (For UP Cebu Faculty and Staff),Submission of performance ratings of administrative staff and REPS
+23,hrdo,15,Human Resource Development Office,Internal (For UP Cebu Faculty and Staff),Application of employees for authority to travel abroad
+23,hrdo,16,Human Resource Development Office,Internal (For UP Cebu Faculty and Staff),Application of employees for travel order
+23,hrdo,17,Human Resource Development Office,Internal (For UP Cebu Faculty and Staff),Request for PUSO and UP mail account
+23,hrdo,18,Human Resource Development Office,Internal (For UP Cebu Faculty and Staff),Request for authority to hire individual contract of service (ICS) & UP Contractual / Authority to fill vacant items
+23,hrdo,19,Human Resource Development Office,Internal (For UP Cebu Faculty and Staff),Rewarding and recognizing the achievements of UP Cebu employees and service award
+24,itc,1,Information Technology Center,"External (For Students, UP Cebu Alumni, General Public)",UP Cebu WiFi accounts
+24,itc,2,Information Technology Center,"External (For Students, UP Cebu Alumni, General Public)",UP mail account
+24,itc,3,Information Technology Center,Internal (For UP Cebu Faculty and Staff),UP Cebu WiFi accounts
+24,itc,4,Information Technology Center,Internal (For UP Cebu Faculty and Staff),"UP mail account for faculty, REPS, and staff"
+24,itc,5,Information Technology Center,Internal (For UP Cebu Faculty and Staff),UP mail account for student councils and student publications
+24,itc,6,Information Technology Center,Internal (For UP Cebu Faculty and Staff),Technical support
+25,oca,1,Office of the Campus Architect,"External (For Students, UP Cebu Alumni, General Public)",Evaluation of pre-project construction drawings
+25,oca,2,Office of the Campus Architect,"External (For Students, UP Cebu Alumni, General Public)",Materials evaluation and endorsement
+25,oca,3,Office of the Campus Architect,"External (For Students, UP Cebu Alumni, General Public)",Assessment of progress billing
+25,oca,4,Office of the Campus Architect,"External (For Students, UP Cebu Alumni, General Public)",Preparation of punch list and project close out
+25,oca,5,Office of the Campus Architect,Internal (For UP Cebu Faculty and Staff),Preparation of the scope of work or terms of reference and drawings for the project to be bid out
+25,oca,6,Office of the Campus Architect,Internal (For UP Cebu Faculty and Staff),Preparation of detailed architectural and engineering design (DAED): PROJECT INCEPTION of the building based on the project proposal
+25,oca,7,Office of the Campus Architect,Internal (For UP Cebu Faculty and Staff),Preparation of detailed architectural and engineering design (DAED): CONCEPTUAL FRAMEWORK of the building based on the project proposal
+25,oca,8,Office of the Campus Architect,Internal (For UP Cebu Faculty and Staff),Preparation of detailed architectural and engineering design (DAED): SCHEMATIC DESIGN of the building based on the project proposal
+25,oca,9,Office of the Campus Architect,Internal (For UP Cebu Faculty and Staff),Preparation of detailed architectural and engineering design (DAED): DESIGN DEVELOPMENT plan of the building based on the project proposal
+25,oca,10,Office of the Campus Architect,Internal (For UP Cebu Faculty and Staff),Preparation of detailed architectural and engineering design (DAED): DENR and DPWH COMPLIANCE of the building based on the project proposal
+25,oca,11,Office of the Campus Architect,Internal (For UP Cebu Faculty and Staff),Preparation of the design of the work order of building/office/room repairs/rehabilitation
+25,oca,12,Office of the Campus Architect,Internal (For UP Cebu Faculty and Staff),Monitoring of the construction
+26,ssu,1,Safety and Security Unit,"External (For Students, UP Cebu Alumni, General Public)",Application for car pass sticker
+26,ssu,2,Safety and Security Unit,"External (For Students, UP Cebu Alumni, General Public)",Visitor’s entry procedure
+26,ssu,3,Safety and Security Unit,"External (For Students, UP Cebu Alumni, General Public)",Providing security for official school activity
+26,ssu,4,Safety and Security Unit,"External (For Students, UP Cebu Alumni, General Public)",Facilitating reports and claims of lost items
+26,ssu,5,Safety and Security Unit,"External (For Students, UP Cebu Alumni, General Public)",Incident investigation
+26,ssu,6,Safety and Security Unit,Internal (For UP Cebu Faculty and Staff),Application for car pass sticker
+26,ssu,7,Safety and Security Unit,Internal (For UP Cebu Faculty and Staff),Providing security for official school activity
+26,ssu,8,Safety and Security Unit,Internal (For UP Cebu Faculty and Staff),Facilitating reports and claims of lost items
+26,ssu,9,Safety and Security Unit,Internal (For UP Cebu Faculty and Staff),CCTV review and playback
+26,ssu,10,Safety and Security Unit,Internal (For UP Cebu Faculty and Staff),Incident investigation
+26,ssu,11,Safety and Security Unit,Internal (For UP Cebu Faculty and Staff),Safety and security threat and risk assessment
+27,spmo,1,Supply and Property Management Office,"External (For Students, UP Cebu Alumni, General Public)",Issuance of gate pass (Pull-out Slip) for transfer of property/ies outside the campus
+27,spmo,2,Supply and Property Management Office,"External (For Students, UP Cebu Alumni, General Public)",Acceptance of delivery / documents from external clients
+27,spmo,3,Supply and Property Management Office,"External (For Students, UP Cebu Alumni, General Public)",Sale of bidding documents
+27,spmo,4,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),Issuance of gate pass (Pull-out Slip) for transfer of property/ies outside the campus
+27,spmo,5,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),Assistance in the submission of PPMP
+27,spmo,6,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),Acceptance of documents from internal clients
+27,spmo,7,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),Registration of new supplier / payee in the BULSA System
+27,spmo,8,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),Facilitates documentary requirements for payment
+27,spmo,9,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),"Assistance in the queries regarding procurement, inventory, and other queries"
+27,spmo,10,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),Posting of information on opportunities at UP Cebu posted at PhilGEPS portal
+27,spmo,11,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),Request for procurement of goods and services
+27,spmo,12,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),Property Acknowledgment Receipt (PAR) / Inventory Custodian Slip (ICS) preparation for newly acquired properties
+27,spmo,13,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),Preparation of Property Acknowledgment Receipt (PAR) / Inventory Custodian Slip (ICS) - Transfer of accountabilities
+27,spmo,14,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),Pull-out of unserviceable properties to be returned to SPMO for proper disposal
+27,spmo,15,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),Processing of University clearance
+27,spmo,16,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),Disposal of PPEs / SEs / waste material
+27,spmo,17,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),Conduct a physical count of supplies / materials at the Central Store
+27,spmo,18,Supply and Property Management Office,Internal (For UP Cebu Faculty and Staff),"Conduct of Physical Count of Inventories (RPCI) for submission to COA as Report on the Physical Count of Property, Plant, and Equipment (RPCPPE)"
+28,ccad,1,"College of Communication, Art, and Design","External (For Students, UP Cebu Alumni, General Public)",Application to the Fine Arts Program
+28,ccad,2,"College of Communication, Art, and Design","External (For Students, UP Cebu Alumni, General Public)",Requests at the Fabrication Laboratory (FabLab)
+28,ccad,3,"College of Communication, Art, and Design","External (For Students, UP Cebu Alumni, General Public)",Requests at the Jose T. Joya Gallery
+28,ccad,4,"College of Communication, Art, and Design","External (For Students, UP Cebu Alumni, General Public)",Requests at the Lawak Sinehan
+28,ccad,5,"College of Communication, Art, and Design","External (For Students, UP Cebu Alumni, General Public)",Suggestions from other stakeholders
+28,ccad,6,"College of Communication, Art, and Design","External (For Students, UP Cebu Alumni, General Public)",Consultation services
+28,ccad,7,"College of Communication, Art, and Design","External (For Students, UP Cebu Alumni, General Public)",Request for authentication of documents / certificates
+28,ccad,8,"College of Communication, Art, and Design","External (For Students, UP Cebu Alumni, General Public)",Request to use classrooms / facilities
+28,ccad,9,"College of Communication, Art, and Design","External (For Students, UP Cebu Alumni, General Public)",Suggestions from students
+28,ccad,10,"College of Communication, Art, and Design","External (For Students, UP Cebu Alumni, General Public)",Request for Travel Order
+28,ccad,11,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for local travel
+28,ccad,12,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for Research Load Credit
+28,ccad,13,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for leave
+28,ccad,14,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for leave without pay
+28,ccad,15,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for study leave
+28,ccad,16,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for Faculty Grant
+28,ccad,17,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for Research Grant
+28,ccad,18,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for Authority to Travel Abroad
+28,ccad,19,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Request to hire new faculty
+28,ccad,20,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Request for Authority to Hire
+28,ccad,21,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Request for UP Cebu Research Dissemination Grant (RDG) and Release of RDG
+28,ccad,22,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Renewal of faculty appointment
+28,ccad,23,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Request for UP System Research Dissemination Grants / International Publication Award
+28,ccad,24,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for faculty clearance
+28,ccad,25,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for fellowship grant
+28,ccad,26,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for plantilla item
+28,ccad,27,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for tenure
+28,ccad,28,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for supplies
+28,ccad,29,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Request for official time
+28,ccad,30,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),"Processing of cash advance (CA) reimbursement, or liquidation"
+28,ccad,31,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for merit promotion
+28,ccad,32,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Application for automatic promotion
+28,ccad,33,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Request for permission for Limited Practice of Profession (LPP)
+28,ccad,34,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Course offerings
+28,ccad,35,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Request for faculty
+28,ccad,36,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Request for official data / information
+28,ccad,37,"College of Communication, Art, and Design",Internal (For UP Cebu Faculty and Staff),Request for Travel Order
+29,cs,1,College of Science,"External (For Students, UP Cebu Alumni, General Public)",Application to graduate programs
+29,cs,2,College of Science,"External (For Students, UP Cebu Alumni, General Public)",Admission test for non-degree graduate program
+29,cs,3,College of Science,"External (For Students, UP Cebu Alumni, General Public)",Request for service
+29,cs,4,College of Science,"External (For Students, UP Cebu Alumni, General Public)",Application for OJT to College of Science
+29,cs,5,College of Science,Internal (For UP Cebu Faculty and Staff),Request for Local Travel Order
+29,cs,6,College of Science,Internal (For UP Cebu Faculty and Staff),Request for International Travel Order
+29,cs,7,College of Science,Internal (For UP Cebu Faculty and Staff),Request for funding for local travel through API
+29,cs,8,College of Science,Internal (For UP Cebu Faculty and Staff),Request for funding for local travel through fund source
+29,cs,9,College of Science,Internal (For UP Cebu Faculty and Staff),Request for funding for international travel through Research Dissemination Grant
+29,cs,10,College of Science,Internal (For UP Cebu Faculty and Staff),Nomination of Guidance / Advisory Committee
+29,cs,11,College of Science,Internal (For UP Cebu Faculty and Staff),Application for thesis defense
+29,cs,12,College of Science,Internal (For UP Cebu Faculty and Staff),Request of thesis defense report
+29,cs,13,College of Science,Internal (For UP Cebu Faculty and Staff),Request for appointment of external critic / reader
+29,cs,14,College of Science,Internal (For UP Cebu Faculty and Staff),Request for change of advisory / panel member
+29,cs,15,College of Science,Internal (For UP Cebu Faculty and Staff),Releasing of thesis panel honoraria
+29,cs,16,College of Science,Internal (For UP Cebu Faculty and Staff),Request for official student travel
+29,cs,17,College of Science,Internal (For UP Cebu Faculty and Staff),Assistance to students in the conduct of OJT
+29,cs,18,College of Science,Internal (For UP Cebu Faculty and Staff),"Request for short term use of laboratory equipment and non-consumable material (Chemistry, Physics, Biology, Computer Science, and Stat)"
+29,cs,19,College of Science,Internal (For UP Cebu Faculty and Staff),"Request for long term use of laboratory equipment and non-consumable material (Chemistry, Physics, Biology)"
+29,cs,20,College of Science,Internal (For UP Cebu Faculty and Staff),"Request use for consumable / disposable laboratory materials (Chemistry, Biology)"
+29,cs,21,College of Science,Internal (For UP Cebu Faculty and Staff),Student department clearance
+30,css,1,College of Social Sciences,"External (For Students, UP Cebu Alumni, General Public)",Suggestion from other stakeholders
+30,css,2,College of Social Sciences,"External (For Students, UP Cebu Alumni, General Public)",Student request for consultation services
+30,css,3,College of Social Sciences,"External (For Students, UP Cebu Alumni, General Public)",Request for authentication of documents / certificates
+30,css,4,College of Social Sciences,"External (For Students, UP Cebu Alumni, General Public)",Suggestion from students
+30,css,5,College of Social Sciences,"External (For Students, UP Cebu Alumni, General Public)",Request to use classrooms / facilities (outside of class hours)
+30,css,6,College of Social Sciences,"External (For Students, UP Cebu Alumni, General Public)",Request for official Travel Order
+30,css,7,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Application for Local Travel Order (non-official)
+30,css,8,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Application for Research Load Credit
+30,css,9,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Application for leave
+30,css,10,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Application for leave without pay
+30,css,11,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Application for study leave
+30,css,12,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Application for faculty grant
+30,css,13,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Application for research grant
+30,css,14,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Application for Authority to Travel Abroad
+30,css,15,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Request to hire new faculty
+30,css,16,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Request authority to hire
+30,css,17,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),UP Cebu Research Dissemination Grant (RDG) and funding
+30,css,18,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Renewal of faculty
+30,css,19,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Request for UP System RDG / International Publication Award
+30,css,20,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Application for faculty / staff clearance
+30,css,21,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Application for UP fellowship grant
+30,css,22,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Application for plantilla item
+30,css,23,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Application for tenure
+30,css,24,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Request for supplies
+30,css,25,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Request for official time
+30,css,26,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Processing of cash advance (CA) / reimbursement / liquidation
+30,css,27,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Application for merit promotion
+30,css,28,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Application for automatic promotion
+30,css,29,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Request for limited practice of profession
+30,css,30,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Request for course offerings from other colleges
+30,css,31,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Request for faculty from other colleges
+30,css,32,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Request for official data / information
+30,css,33,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Hiring procedure of new faculty (full time and lecturer)
+30,css,34,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Endorsement of request for use of rooms / facilities
+30,css,35,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Master of Education Program (M.Ed.) services
+30,css,36,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),UP Cebu High School Program services
+30,css,37,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Master in Public Affairs Program (MPAf)
+30,css,38,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Request to use classrooms / facilities (outside of class hours)
+30,css,39,College of Social Sciences,Internal (For UP Cebu Faculty and Staff),Request for official Travel Order
+31,som,1,School of Management,"External (For Students, UP Cebu Alumni, General Public)",Endorsement of request for the use of rooms / facilities
+31,som,2,School of Management,"External (For Students, UP Cebu Alumni, General Public)",Hiring of new faculty
+31,som,3,School of Management,"External (For Students, UP Cebu Alumni, General Public)",Hiring procedure of new faculty (full time and lecturer)
+31,som,4,School of Management,"External (For Students, UP Cebu Alumni, General Public)",Suggestion from other stakeholders
+31,som,5,School of Management,Internal (For UP Cebu Faculty and Staff),Application for authority to travel abroad
+31,som,6,School of Management,Internal (For UP Cebu Faculty and Staff),Application for faculty clearance (University Clearance)
+31,som,7,School of Management,Internal (For UP Cebu Faculty and Staff),Application for faculty grant
+31,som,8,School of Management,Internal (For UP Cebu Faculty and Staff),Application for leave (UP Cebu - HRDO Form 6a)
+31,som,9,School of Management,Internal (For UP Cebu Faculty and Staff),Application for leave without pay
+31,som,10,School of Management,Internal (For UP Cebu Faculty and Staff),Application for local travel order (non-official)
+31,som,11,School of Management,Internal (For UP Cebu Faculty and Staff),Application for merit promotion
+31,som,12,School of Management,Internal (For UP Cebu Faculty and Staff),Application for research grant
+31,som,13,School of Management,Internal (For UP Cebu Faculty and Staff),Application for Research Load Credit
+31,som,14,School of Management,Internal (For UP Cebu Faculty and Staff),Application for study leave / fellowship
+31,som,15,School of Management,Internal (For UP Cebu Faculty and Staff),Application for tenure
+31,som,16,School of Management,Internal (For UP Cebu Faculty and Staff),Application to MBA bridge course program
+31,som,17,School of Management,Internal (For UP Cebu Faculty and Staff),Application to MBA comprehensive exam
+31,som,18,School of Management,Internal (For UP Cebu Faculty and Staff),Application to MBA program
+31,som,19,School of Management,Internal (For UP Cebu Faculty and Staff),Assist students in the use of SOM facilities
+31,som,20,School of Management,Internal (For UP Cebu Faculty and Staff),Consultation services
+31,som,21,School of Management,Internal (For UP Cebu Faculty and Staff),Requesting for course offerings
+31,som,22,School of Management,Internal (For UP Cebu Faculty and Staff),Preparation of lecturer’s monthly salary
+31,som,23,School of Management,Internal (For UP Cebu Faculty and Staff),Processing of cash advance (CA) / reimbursement / liquidation
+31,som,24,School of Management,Internal (For UP Cebu Faculty and Staff),Renewal of appointment of faculty
+31,som,25,School of Management,Internal (For UP Cebu Faculty and Staff),Renewal of appointment of lecturers
+31,som,26,School of Management,Internal (For UP Cebu Faculty and Staff),Request authority to hire an academic personnel
+31,som,27,School of Management,Internal (For UP Cebu Faculty and Staff),Request for authentication of documents / certificates
+31,som,28,School of Management,Internal (For UP Cebu Faculty and Staff),Request for faculty from other colleges
+31,som,29,School of Management,Internal (For UP Cebu Faculty and Staff),Request for limited practice of profession
+31,som,30,School of Management,Internal (For UP Cebu Faculty and Staff),Request for official data / information
+31,som,31,School of Management,Internal (For UP Cebu Faculty and Staff),Request for official time
+31,som,32,School of Management,Internal (For UP Cebu Faculty and Staff),Request for official travel order
+31,som,33,School of Management,Internal (For UP Cebu Faculty and Staff),Request for UP Cebu RDG and release of RDG fund
+31,som,34,School of Management,Internal (For UP Cebu Faculty and Staff),Request for UP System RDG / International Publication Award
+31,som,35,School of Management,Internal (For UP Cebu Faculty and Staff),Request to hire new faculty
+31,som,36,School of Management,Internal (For UP Cebu Faculty and Staff),Request to use classrooms / facilities (after class hours)
+31,som,37,School of Management,Internal (For UP Cebu Faculty and Staff),Student applying for official travel (local)
+31,som,38,School of Management,Internal (For UP Cebu Faculty and Staff),Suggestions from students
+31,som,39,School of Management,Internal (For UP Cebu Faculty and Staff),Taking the MBA comprehensive exam and results
+31,som,40,School of Management,Internal (For UP Cebu Faculty and Staff),Taking the MPAT and getting the results
+32,ocs,1,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Change of matriculation
+32,ocs,2,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Dropping of courses
+32,ocs,3,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Application for graduation
+32,ocs,4,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Application for leave of absence (LOA)
+32,ocs,5,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Application for overload
+32,ocs,6,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Application for readmission and waiver of maximum residency rules (MRR)
+32,ocs,7,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Application for shifting of program
+32,ocs,8,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Validation of courses (application for advance credits)
+32,ocs,9,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Enrollment of incoming graduate students
+32,ocs,10,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Enrollment of incoming undergraduate students
+32,ocs,11,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Filing for residency
+32,ocs,12,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Enrollment of returning students from leave of absence (LOA)
+32,ocs,13,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Enrollment of shiftees
+32,ocs,14,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Enrollment of transferees
+32,ocs,15,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Removal of grade of “Incomplete” (INC) or “4”
+32,ocs,16,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Issuance of permit to cross-enroll
+32,ocs,17,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Request for substitution of courses
+32,ocs,18,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Request for True Copy of Grades (TCG) / Certificate of General Weighted Average (GWA)
+32,ocs,19,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Request for Waiver of Prerequisites
+32,ocs,20,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Validation of enrollment of continuing graduate / undergraduate students
+32,ocs,21,Office of the College Secretary,"External (For Students, UP Cebu Alumni, General Public)",Request for college / university clearance
